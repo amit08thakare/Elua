@@ -1,4 +1,3 @@
-Amit Thakare
 eLua - Lua for microcontrollers
 ===============================
 
